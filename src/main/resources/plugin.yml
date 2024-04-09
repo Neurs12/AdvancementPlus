@@ -1,0 +1,4 @@
+name: AdvancementPlus
+version: '${project.version}'
+main: dev.neurs.advancementplus.AdvancementPlus
+api-version: '1.20'
